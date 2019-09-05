@@ -1,2 +1,3 @@
 # get-swapi
 Web development basics...
+Just a request practice from the early beginning.
