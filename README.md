@@ -1,2 +1,2 @@
 # get-swapi
-Just a request practice from the early beginning.
+Just a simple request practice from the early beginning.
